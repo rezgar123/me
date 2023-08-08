@@ -1,1 +1,1 @@
-vless://9e94c402-ab7d-4326-a9a7-c7ed91d09735@aaaaaaa.outline-vpn.cloud:22001?security=reality&sni=www.speedtest.net&fp=firefox&pbk=yi-3ZKmcgSqiqclyFTZi1jr0O4W73tbFfR-qQNfrvXU&sid=e321fde9&spx=/&type=grpc&serviceName=irf&encryption=none#Sun66(@Outline_Vpn)
+vmess://eyJhZGQiOiIyMy4yMjcuNjAuMTg0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjNjOTNkYzYwLTM0MDMtMTFlZS1iMGU1LTEyMzlkMDI1NTI3MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA5NiIsInBzIjoi2qnYp9mG2KfZhCA6IEBWMnJheU5HdnBuaSIsInNuaSI6InJvMS5zb2NpZmlsZXMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
