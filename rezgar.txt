@@ -1,2 +1,359 @@
 vmess://eyJhZGQiOiIyMy4yMjcuNjAuMTg0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjNjOTNkYzYwLTM0MDMtMTFlZS1iMGU1LTEyMzlkMDI1NTI3MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA5NiIsInBzIjoi2qnYp9mG2KfZhCA6IEBWMnJheU5HdnBuaSIsInNuaSI6InJvMS5zb2NpZmlsZXMuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIyMy4yMjcuNjAuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNjOTNkYzYwLTM0MDMtMTFlZS1iMGU1LTEyMzlkMDI1NTI3MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA5NiIsInBzIjoi2qnYp9mG2KfZhCA6IEBWMnJheU5HdnBuaSIsInNjeSI6ImF1dG8iLCJzbmkiOiJybzEuc29jaWZpbGVzLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+Legendaryking Servers:
+Reality 7 gRPC | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@135.181.44.79:443?mode=gun&security=reality&encryption=none&pbk=eKu_UjTL3g1WPaJusQzvQXDHKzSY2Ugt5MpZabkp2mA&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=game-center.ir&sid=01a9e5ca#Reality+7
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص ، ایرانسلش هم روال نی فردا سرورش تعویض میشه
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 8 TCP+flow | Location: 🇷🇴
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@5.182.37.43:443?security=reality&encryption=none&pbk=-vafjqwrLmFWYLc4rFQiu3yFAJkMBpuG0lXS-CRKlkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lichess.org&sid=982f55d2#Reality+8
+
+تستی
+
+🔹 برق چندین دیتاسنتر کشور قطع شده است و برخی از سرویس‌ها از دسترس خارج شده‌اند. این چندین بار است که طی ماه‌های اخیر به دلیل قطع برق چنین اتفاقی رخ می‌دهد. دلیل از دسترس خارج شدن سرورها برای بعضی اینترنت ها نیز همین موضوع است.
+
+🔻اختلال در دیتا سنتر و قطعی برق پایتخت
+
+مظفری متخصص شبکه و دیتا:
+
+🔹همزمان با قطع برق در مناطقی از تهران،برخی دیتاسنترهای پایتخت با اختلال مواجه شدند.طی سی روز گذشته موضوع تجهیزات پشتیبان برق در دیتاسنترها محک سختی داشتند. به نظر نمیرسد وضعیت برق پشتیبان در برخی از آنها مناسب باشد. تا این لحظه اختلال در سه دیتاسنتر تایید شده است.
+
+باز منو از خواب بیدار کنید😂
+
+یه چند روزی همراه اولیا حسابی حال کردن با اینترنتشون ، حالا باید بگم که
+
+محدودیت های همراه اول دوباره برگشت.
+
+شب میخوابی صبح پا میشی ایران ۱۸۰ درجه تغییر کرده
+
+سرور داخلیا هم که دارن جفتک میندازن😂
+
+🦈Reality 1 H2 | Location: 🇩🇪
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@23.88.36.195:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=N9Xtb4pWm_5f_AwyjqqWGnL4mjSFHRVwYP1PDW--TxM&fp=chrome&type=http&sni=mega.io&sid=145aa376#Reality+1
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص ، ایرانسلش هم فعلا زیاد شوتی نیست.
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+🦈Reality 2 gRPC | Location: 🇳🇱
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegenadryking@194.87.31.66:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&fp=random&type=http&sni=mega.io&sid=51926e09#Reality+2
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 3 H2 | Location: 🇺🇦
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@188.241.243.192:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=D-gr8VQ9NqEYxAqEZAGeHuUGOm0gZyFxmEuBHP1dRls&fp=chrome&type=http&sni=mega.io&sid=46fdf413#Reality+3
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 4 H2 | Location: 🇦🇹
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@94.228.169.27:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=HYyIGuyNFslmcnNT7mrDdmuXwn4cm7smE_FZbYguKHQ&fp=randomized&type=http&sni=mega.io&sid=0ee572d3#Reality+4
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 5 H2 | Location: 🇱🇹
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@46.29.234.100:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=random&type=http&sni=mega.io&sid=33e877ce#Reality+5
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 6 H2 | Location: 🇩🇰
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@46.29.235.36:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&fp=chrome&type=http&sni=mega.io&sid=42bce317#Reality+6
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 7 H2 | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@37.27.10.179:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=QyDJ-LW56tYNLJDwoaokJlr7z6O8jhpFS8pRT5MylCU&fp=chrome&type=http&sni=mega.io&sid=f0f2328b#Reality+7
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 8 H2 | Location: 🇷🇴
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@5.182.37.43:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=TuGG3153ZxmWXCqWUjXWMcjnfJ7p1FkzDC3Gr-qVG0I&fp=chrome&type=http&sni=mega.io&sid=7a2592d1#Reality+8
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+🦈Reality 1 TCP | Location: 🇩🇪
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+ vless://LegenderY_Servers@49.13.25.80:443?security=reality&encryption=none&pbk=NRDmaw2E560-vjoiHdogGo0tM42AuVj69RHy8DeAaDs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com&sid=2d133740#Reality+1
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص ، ایرانسلش هم فعلا زیاد شوتی نیست.
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+آقا لجند 17 کا هم شدی
+ وقت دیلیت کانال رسیده پاشو جمع کن بریم🤌
+
+دلیت کنیم بریم پی زندگیمون به ولله
+
+🦈Reality 2 TCP | Location: 🇳🇱
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://LegenderY_Servers@194.87.31.66:443?security=reality&encryption=none&pbk=VcqHivYGGoBkcxOI6cSSjQmneltstkb2OhvO53dyhEM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com&sid=51926e09#Reality+2
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 3 TCP | Location: 🇺🇦
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://LegenderY_Servers@188.241.243.192:443?security=reality&encryption=none&pbk=s05fgNSoOBUfiwzh8KskDkHogSWb7cQKBriAF3m22yY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com&sid=4f1e4525#Reality+3
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 4 TCP | Location: 🇦🇹
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://LegenderY_Servers@94.228.169.27:443?security=reality&encryption=none&pbk=HYyIGuyNFslmcnNT7mrDdmuXwn4cm7smE_FZbYguKHQ&headerType=none&fp=randomized&type=tcp&sni=cdn.discordapp.com&sid=0ee572d3#Reality+4
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 5 TCP | Location: 🇱🇹
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://LegenderY_Servers@46.29.234.100:443?security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&headerType=none&fp=random&type=tcp&sni=cdn.discordapp.com&sid=33e877ce#Reality+5
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 6 TCP | Location: 🇩🇰
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://LegenderY_Servers@46.29.235.36:443?security=reality&encryption=none&pbk=F9WJV_74IZp0Ide4hWjiJXk9FRtBUBkUr3mzU-q1lzk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com&sid=42bce317#Reality+6
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+کلشون خرابن😂
+
+ای تف به این بخت
+
+⚠️ هشدار اختلال شدید
+
+❌اختلال شدید روی اوپراتور ایرانسل  دیتاسنتر تبریز و استان های اطراف اون قطع قطع. . . 🤦😡
+
+از صحتش اطلاعی ندارم
+
+پس فعلا دست کانفیگا نمیزنم
+الانم خیلی خستم
+فردا یه فکری میکنم به حالشون 
+روال شدن که شدن نشدن که هیچی خودکشی میکنم😂
+
+این کانفیگ تست رو قرار میدم تا فردا که بیام سرورها رو اوکی کنم وصل باشید.
+
+vless://ItsLegendaryking@49.13.64.86:443?security=reality&encryption=none&pbk=OlZKFZqSdD4G3uikJCdOzdc-ba6jrnWYOuDlaqY7oCQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.discordapp.com&sid=2af63c78#Test+Reality
+
+🦈Reality 1 gRPC | Location: 🇩🇪
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@49.13.25.80:443?mode=gun&security=reality&encryption=none&pbk=Dz3YPv4mW08hF0A7mQbIesPHj1R7ThRpERdlkTIQv3w&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=32b5efef#Reality+1
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+🦈Reality 2 gRPC | Location: 🇳🇱
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@194.87.31.66:443?mode=gun&security=reality&encryption=none&pbk=goY3OtfaA4UYbiz7Hn0NysI5QJrK0VT_Chg6RLgUPQU&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=e62b9090#Reality+2
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 3 gRPC | Location: 🇺🇦
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://LegenderY_Servers@188.241.243.192:443?mode=gun&security=reality&encryption=none&pbk=znintPWoR9Ua6gCu-0oAEBHnR1sn1RYxEGZychoJHVo&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=eaa6033a#Reality+3
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 4 gRCP | Location: 🇦🇹
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=rJFC3dUjJxMnVZiUGzmf_LFsJUwFWY-CU5RQgFOHCWM&fp=randomized&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=19d8f44f#Reality+4
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 5 gRPC | Location: 🇱🇹
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@46.29.234.100:443?mode=gun&security=reality&encryption=none&pbk=LlYD2nNVAvyjNvjZGZh4R8PkMIwkc6EycPTvR2LE0nQ&fp=random&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=83fee57e#Reality+5
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 6 gRPC | Location: 🇩🇰
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@46.29.235.36:443?mode=gun&security=reality&encryption=none&pbk=2UW_EO3r7uczPGUUlpJBnMDpDmWUHE2yDzCmXS4sckE&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=b1e20b4b#Reality+6
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 7 H2 | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@37.27.10.179:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=QyDJ-LW56tYNLJDwoaokJlr7z6O8jhpFS8pRT5MylCU&fp=chrome&type=http&sni=mega.io&sid=f0f2328b#Reality+7
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+Reality 8 H2 | Location: 🇷🇴
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@5.182.37.43:443?path=%2FTelegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers-Telegram%3A%40LegenderY_Servers&security=reality&encryption=none&pbk=TuGG3153ZxmWXCqWUjXWMcjnfJ7p1FkzDC3Gr-qVG0I&fp=chrome&type=http&sni=mega.io&sid=7a2592d1#Reality+8
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
