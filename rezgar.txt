@@ -1,3 +1,8 @@
+vless://ItsLegendaryking@128.140.57.35:443?security=reality&encryption=none&pbk=KOFCCoCxzMC4hSRULuaiQZ0mM2j5e02-GYWyYyDbm0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir#MeowRay
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=tols1vCnZvB6r4qdkHEfWz4jMOhHd0PVTumTDX-JwmQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=dadbb833#Reality+5
+vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&pbk=lXlXkGP1MtCEFNZFZV1OwWY9RmVmihTnjBltxHLKY2M&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=8f4143a0#Reality+1
+vless://ItsLegendaryking@49.12.189.56:443?security=reality&encryption=none&pbk=ztYyGaHOHTtEASyQrantl0pLIpaSNrzRH5dE8gTuNmA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vipremix.ir&sid=3960dd13#Legendaryking
+
 vless://dd70974a-0998-4586-8aba-2b9e7ec821a4@online.4zkaban.xyz:80?encryption=none&security=none&type=ws&host=24.ok-config-37.buzz&path=%2F%40Ok_Config#%F0%9F%87%A9%F0%9F%87%AA%20%40Config_On%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%284%29
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.44.172:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048#%E2%87%9D%40M4DSHAP%F0%9F%A9%B5%DA%AF%D8%B1%D9%88%D9%87%2B%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?encryption=none&security=tls&sni=sdgf.bdfstt.sbs&type=ws&host=sdgf.bdfstt.sbs&path=%2F%3Fed%3D2048#mahdish0p
