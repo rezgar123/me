@@ -1,3 +1,4 @@
+
 vless://ItsLegendaryking@65.109.3.223:443?security=reality&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#MeowRay
 vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers#Reality+1
 vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers#Reality+2
