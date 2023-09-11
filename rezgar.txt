@@ -1,3 +1,10 @@
+vless://ItsLegendaryking@65.109.3.223:443?security=reality&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#MeowRay
+vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers#Reality+1
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers#Reality+2
+vless://ItsLegendaryking@45.87.153.68:443?mode=gun&security=reality&encryption=none&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers#Reality+3
+vless://ItsLegendaryking@45.95.232.9:443?mode=gun&security=reality&encryption=none&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers#Reality+4
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers#Reality+5
+
 vless://ItsLegendaryking@128.140.57.35:443?security=reality&encryption=none&pbk=KOFCCoCxzMC4hSRULuaiQZ0mM2j5e02-GYWyYyDbm0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mihanyas.ir#MeowRay
 vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=tols1vCnZvB6r4qdkHEfWz4jMOhHd0PVTumTDX-JwmQ&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=dadbb833#Reality+5
 vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&pbk=lXlXkGP1MtCEFNZFZV1OwWY9RmVmihTnjBltxHLKY2M&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=8f4143a0#Reality+1
