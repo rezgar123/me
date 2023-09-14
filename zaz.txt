@@ -1,4 +1,68 @@
- vmess://eyJhZGQiOiIxMDQuMjEuMzYuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNsb3VkY29uZWJiYi5nb3Jnb3JjaGlja2VuLm9uZSIsImlkIjoiYWEwYzQ3NDQtOTU2OC00YmVlLWEwOGItNzM2NjhhOWIyYTQyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Nsb3VkY29uZWJiYiIsInBvcnQiOiI4NDQzIiwicHMiOiLYsdin24zar9in2YYgfCBWTUVTUyB8IEBpUF9DRiB8IFJFTEFZ8J+aqSB8IDDvuI/ig6Mx77iP4oOjIiwic2N5IjoiYXV0byIsInNuaSI6ImNsb3VkY29uZWJiYi5nb3Jnb3JjaGlja2VuLm9uZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+Legendaryking Servers:
+🦈Reality 1 gRPC | Location: 🇩🇪
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@49.13.82.12:443?mode=gun&security=reality&encryption=none&pbk=wacyj1v6LUYcKXlSQgCTFqxIUQNoUFbJf77HNfqF00g&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=bdc7af5d#Reality+1
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+🦈Reality 2 gRPC | Location: 🇦🇹
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@94.228.169.27:443?mode=gun&security=reality&encryption=none&pbk=qCZUdWQZ2H33vWXnOkG8NpxBeq3qn5QWXlfCOWBNkkc&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=up.20script.ir&sid=3400ba65#Reality+2
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+🦈Reality 3 gRPC | Location: 🇳🇱
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@45.87.153.68:443?mode=gun&security=reality&encryption=none&pbk=B2XL7ZfuFWREvMibS57upGT-ASJNWEr8p182befgQEA&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=b103ecb0#Reality+3
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+🦈Reality 4 gRPC | Location: 🇨🇭
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@45.95.232.9:443?mode=gun&security=reality&encryption=none&pbk=Qe98jIgGGXjghGfzkuyGFFjGOXPmbslg_SbIvk4ZdHA&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=fbee6355#Reality+4
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows
+
+🦈Reality 5 gRPC | Location: 🇫🇮
+اگر وصل نشد از‌ کانفیگای دیگه بسته به اپراتورتون استفاده کنید
+
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=fcMEwZpr8WtzAgTKbxA3MMy22A8nSmcp6RtMn4Hfg1s&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=b3888c26#Reality+5
+
+🤍 کانفیگ ریلیتی نامحدود تا زمان نامشخص 
+
+📱 Android
+
+📱 iOS +16 | Older iOS
+
+💻 Windows vmess://eyJhZGQiOiIxMDQuMjEuMzYuMjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNsb3VkY29uZWJiYi5nb3Jnb3JjaGlja2VuLm9uZSIsImlkIjoiYWEwYzQ3NDQtOTU2OC00YmVlLWEwOGItNzM2NjhhOWIyYTQyIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Nsb3VkY29uZWJiYiIsInBvcnQiOiI4NDQzIiwicHMiOiLYsdin24zar9in2YYgfCBWTUVTUyB8IEBpUF9DRiB8IFJFTEFZ8J+aqSB8IDDvuI/ig6Mx77iP4oOjIiwic2N5IjoiYXV0byIsInNuaSI6ImNsb3VkY29uZWJiYi5nb3Jnb3JjaGlja2VuLm9uZSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1MS4xNTguMjM4LjExNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0ZTNlZTM5ZC1jYjhhLTQ3M2UtYmE4Ni0zZWM0MTM3MmY5ZDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Itix2KfbjNqv2KfZhiB8IFZNRVNTIHwgQFYycmF5Q29sbGVjdG9yRG9uYXRlIHwgRlLwn4er8J+HtyB8IDDvuI/ig6Mx77iP4oOjIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5NS4yMTYuMTY5LjE1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MGU5NjhmNS01OGE1LTQyY2UtYTJkZS1jODE4OTQwNTQ1NjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDgzIiwicHMiOiLYsdin24zar9in2YYgfCBWTUVTUyB8IEBWMnJheUNvbGxlY3RvckRvbmF0ZSB8IEZJ8J+Hq/Cfh64gfCAw77iP4oOjMu+4j+KDoyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDQuMjEuNTAuMTc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiLYsdin24zar9in2YYgfCBWTUVTUyB8IEBWMnJheUNvbGxlY3RvckRvbmF0ZSB8IFJFTEFZ8J+aqSB8IDDvuI/ig6Mz77iP4oOjIiwic2N5IjoiYXV0byIsInNuaSI6ImFsdnZpbi5jbGljayIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
