@@ -1,1 +1,1 @@
-vless://f2c83d58-716a-4607-8b30-c225db7c7581@nl2.futuremm1.store:1518/?encryption=none&host=speed.cloudflare.com&type=tcp&headerType=http#%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%7C%20VLESS%20%7C%20%40frev2ray%20%7C%20NL%F0%9F%87%B3%F0%9F%87%B1%20%7C%200%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3
+sn://subscription?eNpjYGBg6CjLSS0ufrtg39stExkZEOA6Y0ZJSUGxlb5-UWK5XnpmSUZpUmlxalFyfl5Jal6JXnJ-rn5lalJqdkaqfkhqTmp6UWJumFFRYqVzfk5OanJJfpF-bmJmnn5xaZJ-UmJxqpmJPtgmBkaGRgCFfyk_
